@@ -1,0 +1,7 @@
+﻿{
+  "BaseUrl": "https://store.steampowered.com",
+  "Language": "en",
+  "Browser": "Chrome",
+  "Incognito": true,
+  "Timeout": 10
+}
